@@ -1,5 +1,3 @@
-# future-interns-data-science
-data science &amp;analytics internship-future interns
 # Data Science & Analytics Internship – Future Interns
 
 This repository contains tasks completed as part of the
